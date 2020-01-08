@@ -1,0 +1,12 @@
+#exclude intelliJ files
+.idea
+.vagrant
+.node
+*.iml
+*.iws
+*.ipr
+
+
+#common tools files
+target
+
