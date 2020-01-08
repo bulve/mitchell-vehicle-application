@@ -5,9 +5,9 @@
 * Spring
 * H2 Database
 
-## Hot To Run Application:
+## How To Run Application:
 
-On the terminal go to project root and type: **mvn clean install & mvn spring-boot:run**
+**mvn clean install & mvn spring-boot:run**
 
 ## Application
 
